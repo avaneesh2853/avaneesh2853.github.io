@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+ You can find my CV <u><a href="/files/document(6).pdf">here</a>.</u>
 
 Education
 ======
