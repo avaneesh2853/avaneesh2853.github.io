@@ -13,7 +13,7 @@ main:
     url: /courses/
         
   - title: "Football"
-    url: /talks/
+    url: /football/
     
   - title: "CV"
     url: /cv/
